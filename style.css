@@ -1,0 +1,20 @@
+body {
+  font-family: sans-serif;
+  background: #f0f0f0;
+  padding: 20px;
+}
+textarea {
+  width: 100%;
+  font-size: 16px;
+}
+button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+pre {
+  background: #fff;
+  padding: 15px;
+  margin-top: 10px;
+  white-space: pre-wrap;
+}
